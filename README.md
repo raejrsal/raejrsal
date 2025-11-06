@@ -5,7 +5,7 @@
 # 👋 Hi, I'm Rene Saldana  
 
 **Senior Brand & Experience Designer**  
-Design Systems • Visual Storytelling • AI-Enhanced Workflows • Tech & Sustainability  
+Brand Identity • Campaigns • Design Systems • Global Events • Visual Storytelling • AI-Enhanced Workflows • Tech & Sustainability  
 
 ---
 
@@ -19,9 +19,10 @@ Previously, I led global brand and experience design at **AVEVA (FTSE 100 SaaS)*
 ---
 
 ### 🧠 Areas of Focus  
-- Brand Systems & Governance  
+- Brand Guidelines & Governance  
 - Design System Architecture  
 - Executive & Event Storytelling  
+- Marketing Campaigns  
 - Visual Identity Development  
 - Generative AI Integration  
 - Digital & Print Design  
@@ -36,9 +37,9 @@ Previously, I led global brand and experience design at **AVEVA (FTSE 100 SaaS)*
 ---
 
 ### 🧩 Tools & Tech  
-**Design:** Figma, Adobe Creative Cloud, XD  
-**Systems:** Frontify, WordPress, Notion  
-**AI & Prototyping:** ChatGPT, Firefly, NightCafe, Midjourney, ElevenLabs, v0 by Vercel  
+**Design:** Adobe Creative Cloud (Illustrator, Photoshop, InDesign, XD), PowerPoint, Figma  
+**Systems:** Frontify, Wrike, Slack, Asana, Notion  
+**AI:** ChatGPT, Adobe Firefly, Gemini, Grok, ElevenLabs, v0 by Vercel  
 
 ---
 
