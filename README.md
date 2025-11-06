@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Rene Saldana  
 
-**Senior Brand & Experience Designer**  
+**Senior Brand Design & Experience Leader**  
 Brand Identity • Campaigns • Design Systems • Global Events • Visual Storytelling • AI-Enhanced Workflows • Tech & Sustainability  
 
 ---
