@@ -48,7 +48,11 @@ Previously, I led global brand and experience design at **AVEVA (FTSE 100 SaaS)*
 
 ---
 
-### 🏆 Highlights  
+📄 [Download My Résumé (PDF)](https://raw.githubusercontent.com/raejrsal/raejrsal/main/Rene_Saldana_Resume.pdf)
+
+---
+
+### 🏆 Awards & Recognition  
 - 3× **Marketing Initiative of the Year** winner (AVEVA)  
 - **CableFaxie Finalist** – Charter Communications “Paquete Alcance Más”  
 - 4× **Bronze Telly Awards** – El Pollo Loco “Taco Celestial” TV Spot  
@@ -57,3 +61,7 @@ Previously, I led global brand and experience design at **AVEVA (FTSE 100 SaaS)*
 ---
 
 > “Design is the bridge between imagination and implementation—between what could be and what becomes.”
+
+> ---
+
+_Last updated: November 2025 — profile actively maintained_
