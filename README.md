@@ -20,7 +20,7 @@ Previously, I led global brand and experience design at **AVEVA (FTSE 100 SaaS)*
 
 ### 🧠 Areas of Focus  
 - Brand Guidelines & Governance  
-- Design System Architecture  
+- Design Systems  
 - Executive & Event Storytelling  
 - Marketing Campaigns  
 - Visual Identity Development  
