@@ -4,7 +4,8 @@
 
 # 👋 Hi, I'm Rene Saldana  
 
-**Strategic & Innovative Brand Design Leader | Elevating brands through cohesive storytelling, scalable systems, and AI-powered creative workflows.**  
+**Strategic & Innovative Brand Design Leader
+Elevating brands through cohesive storytelling, scalable systems, and AI-powered creative workflows.**  
 Brand Identity • Campaigns • Design Systems • Global Events • Visual Storytelling • AI-Enhanced Workflows • Tech & Sustainability  
 
 ---
