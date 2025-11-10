@@ -14,7 +14,7 @@ Brand Identity • Campaigns • Design Systems • Global Events • Visual Sto
 ### 👨‍💻 About Me  
 I’m a senior design and experience leader based in **Orange County, CA**, with 15 years of agency and enterprise experience shaping global brand systems, digital platforms, and event storytelling.  
 
-I bridge design, technology, and strategy—using scalable systems, AI-driven workflows, and human-centered creativity to craft cohesive experiences that connect brands and people.  
+I bridge design, technology, and strategy, integrating generative AI and scalable systems to ship cohesive, high-impact brand experiences.
 
 Previously, I led global brand and experience design at **AVEVA (FTSE 100 SaaS)**, developing scalable identity systems, digital style guides, and creative direction for large-scale events across 40 countries.  
 
