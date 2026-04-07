@@ -50,7 +50,7 @@ Previously, I led global brand and experience design at **AVEVA (FTSE 100 SaaS)*
 
 ---
 
-📄 [Download My Résumé (PDF)](https://raw.githubusercontent.com/raejrsal/raejrsal/main/Rene_Saldana_Resume.pdf)
+📄 [Download My Résumé (PDF)](https://raw.githubusercontent.com/raejrsal/raejrsal/main/Rene_Saldana_resume.pdf)
 
 ---
 
